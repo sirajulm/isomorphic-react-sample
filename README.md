@@ -1,4 +1,4 @@
-Sample Application for Isomorphic React JS
+Sample Application for Isomorphic ReactJS
 ==========================================
 Isomorphic ReactJS is a JS application that is rendered partially both on server side and client side as well.
 
