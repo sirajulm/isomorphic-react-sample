@@ -21,4 +21,4 @@ app.get('/', (req, res) => {
   res.render('pages/index', {'body': app});
 });
  
-app.listen(3000, () => console.log('Server running'));
+app.listen(4000, () => console.log('Server running'));
